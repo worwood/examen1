@@ -31,10 +31,27 @@ namespace Examen1
             textBox2.Text = "";
             textBox3.Text = "";
         }
+        private void crearRectangulo(object sender, EventArgs e)
+        {
+            miPila.Push(new Rectangulo(textBox4.Text, double.Parse(textBox5.Text), double.Parse(textBox6.Text)));
+            textBox4.Text = "";
+            textBox5.Text = "";
+            textBox6.Text = "";
+        }
+        private void crearParalelogramo(object sender, EventArgs e)
+        {
+            miPila.Push(new Paralelogramo(textBox7.Text, double.Parse(textBox8.Text), double.Parse(textBox9.Text)));
+            textBox7.Text = "";
+            textBox8.Text = "";
+            textBox9.Text = "";
+        }
 
         private void mostrarPila(object sender, EventArgs e)
         {
-
+            foreach (var item in miPila)
+            {
+                label11.Text += "\n" + item.ToString();
+            }
         }
 
         private void label10_Click(object sender, EventArgs e)

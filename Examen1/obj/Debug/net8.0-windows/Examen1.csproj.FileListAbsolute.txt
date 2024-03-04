@@ -1,0 +1,17 @@
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\bin\Debug\net8.0-windows\Examen1.exe
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\bin\Debug\net8.0-windows\Examen1.deps.json
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\bin\Debug\net8.0-windows\Examen1.runtimeconfig.json
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\bin\Debug\net8.0-windows\Examen1.dll
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\bin\Debug\net8.0-windows\Examen1.pdb
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.Form1.resources
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.csproj.GenerateResource.cache
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.AssemblyInfoInputs.cache
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.AssemblyInfo.cs
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.csproj.CoreCompileInputs.cache
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.sourcelink.json
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.dll
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\refint\Examen1.dll
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.pdb
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\Examen1.genruntimeconfig.cache
+E:\ProgramacionProyectos\ASPNET\Examen1\Examen1\obj\Debug\net8.0-windows\ref\Examen1.dll
